@@ -1,0 +1,32 @@
+C GJ 586 Aa,Ab (WDS 15282-0921, BAG 25 Aa,Ab, HIP 75722) - visual orbit only
+Object: GJ 586Aab (HD 137763, BAG 25 Aa Ab)
+RA 15.46933837298787
+Dec -9.3479888311439
+C Parallax from Gaia DR3
+Parallax: 51.1421
+C Values are from Strassmeier et al. 2013
+*P      2.43619296
+*T      2007.2596945205473
+*e      0.976081
+a      0.1074
+W      272.8
+*w      255.69
+i       55.4
+C K1    0.0
+C K2    0.0
+C V0    0.0
+*K1     37.844
+*K2     56.597
+*V0     7.5047
+C Data from SOAR (Tokovinvin 2016), VLT-NACO (Strassmeier et al. 2013) and MIRC-X
+C Visual measurements: epoch(yr)  PA(deg)  sep(arcsec)  err(arcsec)  I1  source
+2001.271   340.6  0.1230  0.0040  I1  SOAR
+2008.4716  336.7  0.1310  0.0050  I1  SOAR
+2005.331016 328.8   0.1038  0.3 I1  VLT-NACO
+2013.192881457 336   0.1247  0.5 I1  VLT-NACO
+2014.3033  355.2  0.0615  0.0050  I1  SOAR
+2014.5840973979023 293.1098605 15.99442004e-3 0.00466385733e-3 I1 MIRC-X
+2015.1718  328.2  0.1137  0.0020  I1  SOAR
+2015.4967  336.4  0.1256  0.0028  I1  SOAR
+2016.1409  343.9  0.1179  0.0020  I1  SOAR
+
